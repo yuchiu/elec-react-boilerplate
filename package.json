@@ -1,0 +1,16 @@
+{
+  "name": "elec-react-boilerplate",
+  "version": "1.0.0",
+  "description": "electron and react boilerplate",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^2.0.2",
+    "electron-reload": "^1.2.2"
+  }
+}
